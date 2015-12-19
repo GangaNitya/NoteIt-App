@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+
+    <solid android:color="#ffc100" />
+
+   
+
+</shape><!-- From: file:/E:/AndroidStudioProjects/NoteItNow/app/src/main/res/drawable-hdpi/rounded_button.xml -->
